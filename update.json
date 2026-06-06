@@ -3,22 +3,22 @@
     "versionName": "1.0.7",
     "versionCode": 8,
     "tag": "v1.0.7",
-    "name": "小鹏工具箱 v1.0.7",
+    "name": "灏忛箯宸ュ叿绠?v1.0.7",
     "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.7",
     "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.7/xpeng-toolbox-v1.0.7.apk",
-    "sha256": "c084ef8981e5ffab06078562a151d12fb27bf0c1f1b64d1e2f1937cc652e5c7a",
+    "sha256": "623b31782beaaeaf0113d17dbf6d163bd57687f6efa6d5cb468ed9adb84855f0",
     "publishedAt": "2026-06-06T08:15:34+08:00",
-    "notes": "更新检测切换到公开更新仓库 update.json；源码仓库可继续保持私有。"
+    "notes": "鏇存柊妫€娴嬪垏鎹㈠埌鍏紑鏇存柊浠撳簱 update.json锛涙簮鐮佷粨搴撳彲缁х画淇濇寔绉佹湁銆?
   },
   "debug": {
     "versionName": "1.0.7",
     "versionCode": 8,
     "tag": "v1.0.7",
-    "name": "小鹏工具箱 v1.0.7",
+    "name": "灏忛箯宸ュ叿绠?v1.0.7",
     "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.7",
     "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.7/xpeng-toolbox-v1.0.7.apk",
-    "sha256": "c084ef8981e5ffab06078562a151d12fb27bf0c1f1b64d1e2f1937cc652e5c7a",
+    "sha256": "623b31782beaaeaf0113d17dbf6d163bd57687f6efa6d5cb468ed9adb84855f0",
     "publishedAt": "2026-06-06T08:15:34+08:00",
-    "notes": "当前 Debug 通道暂指向同一 APK；后续可改为独立 debug APK。"
+    "notes": "褰撳墠 Debug 閫氶亾鏆傛寚鍚戝悓涓€ APK锛涘悗缁彲鏀逛负鐙珛 debug APK銆?
   }
 }
