@@ -1,24 +1,24 @@
 {
   "release": {
-    "versionName": "1.0.13",
-    "versionCode": 19,
-    "tag": "v1.0.13",
-    "name": "Xpeng Toolbox v1.0.13",
-    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.13",
-    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.13/xpeng-toolbox-v1.0.13.apk",
-    "sha256": "0a5930f37c765ebeaf268b815e33cadf162f8df5a8b3ff07d7561e55382b0d4a",
-    "publishedAt": "2026-06-06T07:54:19Z",
+    "versionName": "1.0.14",
+    "versionCode": 20,
+    "tag": "v1.0.14",
+    "name": "Xpeng Toolbox v1.0.14",
+    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.14",
+    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.14/xpeng-toolbox-v1.0.14.apk",
+    "sha256": "e7cf096613660256f3b4e8a064d645490d09083b6f500cba7788408016d788bc",
+    "publishedAt": "2026-06-07T02:29:34Z",
     "notes": "Automated CI/CD release from the private source repository."
   },
   "debug": {
-    "versionName": "1.0.13",
-    "versionCode": 19,
-    "tag": "v1.0.13",
-    "name": "Xpeng Toolbox v1.0.13",
-    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.13",
-    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.13/xpeng-toolbox-v1.0.13.apk",
-    "sha256": "0a5930f37c765ebeaf268b815e33cadf162f8df5a8b3ff07d7561e55382b0d4a",
-    "publishedAt": "2026-06-06T07:54:19Z",
+    "versionName": "1.0.14",
+    "versionCode": 20,
+    "tag": "v1.0.14",
+    "name": "Xpeng Toolbox v1.0.14",
+    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.14",
+    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.14/xpeng-toolbox-v1.0.14.apk",
+    "sha256": "e7cf096613660256f3b4e8a064d645490d09083b6f500cba7788408016d788bc",
+    "publishedAt": "2026-06-07T02:29:34Z",
     "notes": "Debug channel currently points to the latest release APK."
   }
 }
