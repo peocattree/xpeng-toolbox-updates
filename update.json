@@ -1,24 +1,24 @@
 {
   "release": {
-    "versionName": "1.0.23",
+    "versionName": "1.0.24",
     "versionCode": 48,
-    "tag": "v1.0.23",
-    "name": "Xpeng Toolbox v1.0.23",
-    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.23",
-    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.23/xpeng-toolbox-v1.0.23.apk",
-    "sha256": "20179f36794c101a9f3079d8a773afa66cc22588a738be8d3b50c16d675bbf2c",
-    "publishedAt": "2026-06-09T14:48:28Z",
+    "tag": "v1.0.24",
+    "name": "Xpeng Toolbox v1.0.24",
+    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.24",
+    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.24/xpeng-toolbox-v1.0.24.apk",
+    "sha256": "72a128fa1fa8fe4533c6ef4cb6913003d4082496505dae277ca7a0ca314a0c49",
+    "publishedAt": "2026-06-09T15:46:40Z",
     "notes": "Automated CI/CD release from the private source repository."
   },
   "debug": {
-    "versionName": "1.0.23",
+    "versionName": "1.0.24",
     "versionCode": 48,
-    "tag": "v1.0.23",
-    "name": "Xpeng Toolbox v1.0.23",
-    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.23",
-    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.23/xpeng-toolbox-v1.0.23.apk",
-    "sha256": "20179f36794c101a9f3079d8a773afa66cc22588a738be8d3b50c16d675bbf2c",
-    "publishedAt": "2026-06-09T14:48:28Z",
+    "tag": "v1.0.24",
+    "name": "Xpeng Toolbox v1.0.24",
+    "releaseUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/tag/v1.0.24",
+    "apkUrl": "https://github.com/peocattree/xpeng-toolbox-updates/releases/download/v1.0.24/xpeng-toolbox-v1.0.24.apk",
+    "sha256": "72a128fa1fa8fe4533c6ef4cb6913003d4082496505dae277ca7a0ca314a0c49",
+    "publishedAt": "2026-06-09T15:46:40Z",
     "notes": "Debug channel currently points to the latest release APK."
   }
 }
